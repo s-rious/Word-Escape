@@ -15,15 +15,9 @@ Developed by Trevor Toland and Cameron Rydwell for the 'Computer Game & Simulati
 * [Templates & Credits](#templates-used--credits)
 ---
 ## Features
-- A full database system linked to all user profiles and data
-- A full interactive user interface that allows students to view numerous tools that can be used relating to their school
-- A 'Home' page that shows a students current activities, grades, upcoming events, and their lunch menu for the day
-- A 'Notepad' page that will locally save a users notes with a title and limitless body, alongside with the option to add a date to set an event in the calendar
-- An interactive 'Calendar' page that can be used to view upcoming events by clicking on a specific date
-- A 'Lunch Menu' page to display the lunch for the current and following week
-- An 'Email' page to email teachers and staff within their school system
-- An 'Activities' page that displays the schools current activities and clubs that are offered, featuring a short description, the teachers name, and requirements to participate in selected activities.
-
+-  
+- 
+- 
 ---
 ## Screenshots
 Application Version 1.0.0

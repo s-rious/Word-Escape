@@ -1,6 +1,6 @@
 # Word Escape README
 
-<img src="(https://user-images.githubusercontent.com/89942884/206558955-8608c52b-c5d5-4e3c-82c8-fdc5a3262c86.png)" height="500">
+<img src="https://user-images.githubusercontent.com/89942884/206558955-8608c52b-c5d5-4e3c-82c8-fdc5a3262c86.pngh" height="500">
 
 **Version 1.0.0**
 

@@ -38,7 +38,7 @@ Application Version 1.0.0
 
 ### Main Menu:
 
-## Level 1:
+### Level 1:
 
 
 ---

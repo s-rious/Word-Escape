@@ -1,6 +1,6 @@
 # Word Escape README
 
-<img src="https://user-images.githubusercontent.com/89942884/206558955-8608c52b-c5d5-4e3c-82c8-fdc5a3262c86.png" height="500">
+<img src="https://user-images.githubusercontent.com/89942884/206558955-8608c52b-c5d5-4e3c-82c8-fdc5a3262c86.png" height="300">
 
 **Version 1.0.0**
 
@@ -29,7 +29,7 @@ Developed by Trevor Toland and Cameron Rydwell for the 'Computer Game & Simulati
 Application Version 1.0.0
 
 ### Main Menu
-<img src="(https://user-images.githubusercontent.com/89942884/206558955-8608c52b-c5d5-4e3c-82c8-fdc5a3262c86.png)" height="500">
+<img src="https://user-images.githubusercontent.com/89942884/206559330-29a2a92f-b507-46e2-8308-aa00dd55b241.png" height="300">
 
 ---
 

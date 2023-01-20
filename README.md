@@ -52,4 +52,10 @@ crydwell.dev@gmail.com
 
 Coded in C# using Unreal Engine
 
+**Books Referenced:**
+
+*Dracula* by Bram Stoker
+*Alice's Adventures in Wonderland* by Lewis Carroll
+*To Kill A Mockingbird* by Harper Lee
+
 ---

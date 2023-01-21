@@ -37,9 +37,9 @@ Application Version 1.0.0
 
 ## Installation Instructions:
 
-1.
-2.
-3.
+1. Visit our [Download Link](https://drive.google.com/drive/folders/1otatbZkI4hxqKbgT1Ydn48wKfepOe2LM?usp=sharing)
+2. Unzip file 
+3. Launch wordescape.exe and enjoy!
 
 ---
 ## How to use:

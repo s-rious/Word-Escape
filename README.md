@@ -11,13 +11,15 @@ Developed by Trevor Toland and Cameron Rydwell for the 'Computer Game & Simulati
 * [Screenshots](#screenshots)
 * [Installation](#installation-instructions)
 * [How to use](#how-to-use)
-* [Common Errors & Interruption](#common-errors--interruptions)
-* [Templates & Credits](#templates-used--credits)
+* [Contact Us](#contact-us)
+* [Credits](#credits)
 ---
 ## Features
--  
-- 
-- 
+- A variety of increasingly complex levels that engages the player to use their knowledge of literature and writing to maneuver through puzzles, riddles, and quizzes that can be completed by typing words and letters
+- Fully interactive story telling, with numerous literature pieces, objects, and environmental features that direct the player through the escape room
+- A time-based system that influences the player to act quickly and complete tasks in order to succeed in the shortest amount of time
+- Stunning, hand-made graphics that let the player feel apart of the game
+- Full Inventory System to hold session-based items to assist you throughout each level, each item catered specifically to the levels
 ---
 ## Screenshots
 Application Version 1.0.0
@@ -37,25 +39,45 @@ Application Version 1.0.0
 ## How to use:
 
 ### Main Menu:
-
+**1. Play**
+   - By clicking the play button, you will be prompted with the options between the 2 current levels of the game. Each level has its own story and puzzles.
+   
+**2. Credits**
+   - Displays the credits page for the games developers and any additional credible sources for the creation of this game.
+   
+**3. Options**
+   - Displays the functionality and controls for the game.
+   
+**4. Quit**
+   - Via clicking, the game will close promptly and bring you to your desktop.
+   
 ### Level 1:
 
 
 ---
-## Common Errors & Interruptions:
+## Contact Us
 
-### Any additional bugs, complaints, or errors that occur can be emailed to the developer directly:
+### You can reach the developer directly by emailing us at:
 crydwell.dev@gmail.com
 
 ---
-## Templates Used & Credits
+## Credits
 
-Coded in C# using Unreal Engine
+**Developers:**
+- Front-End Development by Trevor Toland
+- Back-End Development by Cameron Rydwell
+
+**Development Environments used:**
+- Coded in C# using Unreal Engine
+- Designed in Gamemaker and Krita
 
 **Books Referenced:**
 
 - *Dracula* by Bram Stoker
 - *Alice's Adventures in Wonderland* by Lewis Carroll
 - *To Kill A Mockingbird* by Harper Lee
+- *Da Vinci Code* by Dan Brown
+- *Moby Dick* by Herman Melville
+- *Pride and Prejudice* by Jane Austen
 
 ---

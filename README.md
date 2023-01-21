@@ -25,7 +25,13 @@ Developed by Trevor Toland and Cameron Rydwell for the 'Computer Game & Simulati
 Application Version 1.0.0
 
 ### Main Menu
-<img src="https://user-images.githubusercontent.com/89942884/206559330-29a2a92f-b507-46e2-8308-aa00dd55b241.png" height="300">
+<img src="https://user-images.githubusercontent.com/89942884/213847053-10a444c5-e59e-4afe-ae86-8c5215ea6c0f.png" height="300">
+
+### Level Selection
+<img src="https://user-images.githubusercontent.com/89942884/213847116-26d74559-8cf3-4c2a-9933-c039e9d19f7d.png" height="300">
+
+### Level 1: Spawn Room/Entrance
+<img src="https://user-images.githubusercontent.com/89942884/213847159-d3b6f239-b0f8-456a-bb30-355d992d282b.png" height="300">
 
 ---
 

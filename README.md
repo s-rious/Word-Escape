@@ -28,7 +28,7 @@ Application Version 2.0.0
 <img src="https://user-images.githubusercontent.com/89942884/228695985-6fdb66e3-52b7-4f23-a761-ac22bac4c4f6.png" height="300">
 
 ### Level Selection
-<img src="https://user-images.githubusercontent.com/89942884/228696054-e59c1c98-0026-4def-9269-2fd3167c6c99.png" height="300">
+<img src="https://user-images.githubusercontent.com/89942884/229638977-285b7ff9-1fae-4f36-a78c-05f1fc7e2c6d.png" height="300">
 
 ### Main Menu Lobby
 <img src="https://user-images.githubusercontent.com/89942884/229638464-1a2f3248-8042-4f06-b841-cf74b4c2540a.png" height="300">

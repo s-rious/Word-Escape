@@ -15,8 +15,8 @@ Developed by Trevor Toland and Cameron Rydwell for the 'Computer Game & Simulati
 * [Credits](#credits)
 ---
 ## Features
-- A variety of increasingly complex levels that engages the player to use their knowledge of literature and writing to maneuver through puzzles, riddles, and quizzes that can be completed by typing words and letters
-- Fully interactive story telling, with numerous literature pieces, objects, and environmental features that direct the player through the escape room
+- A variety of increasingly complex levels that engages the player to use their knowledge to maneuver through puzzles, riddles, and quizzes that can be completed by typing words and letters
+- Fully interactive story telling, with numerous interactive pieces, objects, and environmental features that direct the player through the escape room
 - A time-based system that influences the player to act quickly and complete tasks in order to succeed in the shortest amount of time
 - Stunning, hand-made graphics that let the player feel apart of the game
 - Full Inventory System to hold session-based items to assist you throughout each level, each item catered specifically to the levels

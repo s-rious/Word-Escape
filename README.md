@@ -70,16 +70,16 @@ Application Version 2.0.0
    - Via clicking, the game will close promptly and bring you to your desktop.
    
 ### Levels:
-**1. Walking
+**1. Walking***
    - Players can operate and move their character by using WASD or the arrow keys on their keyboard
   
-**2. Completing Steps
+**2. Completing Steps***
    - Players must interact via E with objects to open them. Upon opening them, they must complete the prompt given to them
    
-**3. Escape
+**3. Escape***
    - Players must complete all steps located in their TAB menu in order to escape each room. At the end of each room they will be given a method of escape (ie. key, button)
    
-***4. Pause
+***4. Pause***
    - Players can pause the game by pressing ESC or P and navigate using the buttons in the menu, such as Resume, Help (which will open the premises of the game and controls), and Quit (which will prompt to Quit to Main Menu or to Desktop)
 
 

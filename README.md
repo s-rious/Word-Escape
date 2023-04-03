@@ -42,6 +42,9 @@ Application Version 2.0.0
 ### Level 2: Spawn Room/Entrance
 <img src="https://user-images.githubusercontent.com/89942884/229638406-7a8e208e-e3c1-40e2-a25a-5525667fde7a.png" height="300">
 
+### Level 2: Word Entry Example: Step 2
+<img src="https://user-images.githubusercontent.com/89942884/229639093-4df18ee2-97ea-4bd3-ad30-82016e57d2c5.png" height="300">
+
 ---
 
 ## Installation Instructions:

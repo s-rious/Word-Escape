@@ -30,8 +30,17 @@ Application Version 2.0.0
 ### Level Selection
 <img src="https://user-images.githubusercontent.com/89942884/228696054-e59c1c98-0026-4def-9269-2fd3167c6c99.png" height="300">
 
+### Main Menu Lobby
+<img src="https://user-images.githubusercontent.com/89942884/229638464-1a2f3248-8042-4f06-b841-cf74b4c2540a.png" height="300">
+
 ### Level 1: Spawn Room/Entrance
 <img src="https://user-images.githubusercontent.com/89942884/228696130-484a6ab8-2fc0-4be8-b51c-73ba7938927f.png" height="300">
+
+### Level 1: Word Entry Example: Step 2
+<img src="https://user-images.githubusercontent.com/89942884/229638342-6972a6e2-340f-4019-a56a-5e1aab68e96b.png" height="300">
+
+### Level 2: Spawn Room/Entrance
+<img src="https://user-images.githubusercontent.com/89942884/229638406-7a8e208e-e3c1-40e2-a25a-5525667fde7a.png" height="300">
 
 ---
 
@@ -57,7 +66,18 @@ Application Version 2.0.0
 **4. Quit**
    - Via clicking, the game will close promptly and bring you to your desktop.
    
-### Level 1:
+### Levels:
+**1. Walking
+   - Players can operate and move their character by using WASD or the arrow keys on their keyboard
+  
+**2. Completing Steps
+   - Players must interact via E with objects to open them. Upon opening them, they must complete the prompt given to them
+   
+**3. Escape
+   - Players must complete all steps located in their TAB menu in order to escape each room. At the end of each room they will be given a method of escape (ie. key, button)
+   
+***4. Pause
+   - Players can pause the game by pressing ESC or P and navigate using the buttons in the menu, such as Resume, Help (which will open the premises of the game and controls), and Quit (which will prompt to Quit to Main Menu or to Desktop)
 
 
 ---

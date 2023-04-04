@@ -4,6 +4,8 @@
 
 **Version 2.0.0**
 
+*Word Escape is an escape room based game that focuses on word input fields in order to manuever through each level to escape. *
+
 Developed by Trevor Toland and Cameron Rydwell for the 'Computer Game & Simulation Programming' 2023 NLC Topic for Future Business Leaders of America
 
 ## Table of Contents:
